@@ -3,8 +3,8 @@ We have some predefined instances in VizDoom Library on which the agent is chall
 
 The goal of this project is to train an agent to navigate and survive in the defend the center scenario of Doom using reinforcement learning techniques. The project includes:
 
-Setting up the VizDoom environment.
-Defining the action and observation spaces.
-Implementing reward shaping to guide the agent's learning process.
-Training the agent using various reinforcement learning algorithms.
+* Setting up the VizDoom environment.
+* Defining the action and observation spaces.
+* Implementing reward shaping to guide the agent's learning process.
+* Training the agent using various reinforcement learning algorithms.
 
